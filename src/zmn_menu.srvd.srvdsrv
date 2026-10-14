@@ -1,0 +1,4 @@
+@EndUserText.label: 'menu'
+define service Zmn_menu {
+  expose Zmn_Menu;
+}
